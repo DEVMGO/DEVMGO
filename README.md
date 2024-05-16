@@ -2,7 +2,7 @@
 	<ul>
   <li>👋 Hi there! I'm Mohammad GolMohammadi, a 27-year-old front-end developer.</li>
   <li>🚀 Specializing in React and Next.js</li>
-]
+
 </ul>
 <!-- 	<br /> -->
 
